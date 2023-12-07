@@ -1,0 +1,24 @@
+﻿  canvas.c
+C:\Users\1osta\OneDrive\바탕 화면\고프어쩌면최종\고프2어쩌면최종\ConsoleApplication2\canvas.c(79,16): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  jebi.c
+C:\Users\1osta\OneDrive\바탕 화면\고프어쩌면최종\고프2어쩌면최종\ConsoleApplication2\jebi.c(15,2): warning C4013: 'clear_map'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  jjuggumi.c
+C:\Users\1osta\OneDrive\바탕 화면\고프어쩌면최종\고프2어쩌면최종\ConsoleApplication2\jjuggumi.c(135,2): warning C4013: 'juldarigi'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\1osta\OneDrive\바탕 화면\고프어쩌면최종\고프2어쩌면최종\ConsoleApplication2\jjuggumi.c(136,2): warning C4013: 'jebi'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  juldarigi.c
+C:\Users\1osta\OneDrive\바탕 화면\고프어쩌면최종\고프2어쩌면최종\ConsoleApplication2\juldarigi.c(21,2): warning C4013: 'clear_map'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  keyin.c
+  mugunghwa.c
+C:\Users\1osta\OneDrive\바탕 화면\고프어쩌면최종\고프2어쩌면최종\ConsoleApplication2\mugunghwa.c(24,2): warning C4013: 'clear_map'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  nightgame.c
+C:\Users\1osta\OneDrive\바탕 화면\고프어쩌면최종\고프2어쩌면최종\ConsoleApplication2\nightgame.c(20,2): warning C4013: 'clear_map'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\1osta\OneDrive\바탕 화면\고프어쩌면최종\고프2어쩌면최종\ConsoleApplication2\nightgame.c(22,9): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\1osta\OneDrive\바탕 화면\고프어쩌면최종\고프2어쩌면최종\ConsoleApplication2\nightgame.c(22,6): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\1osta\OneDrive\바탕 화면\고프어쩌면최종\고프2어쩌면최종\ConsoleApplication2\nightgame.c(143,2): warning C4013: 'move_tail'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\1osta\OneDrive\바탕 화면\고프어쩌면최종\고프2어쩌면최종\ConsoleApplication2\nightgame.c(380,9): warning C4013: 'is_arrive'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\1osta\OneDrive\바탕 화면\고프어쩌면최종\고프2어쩌면최종\ConsoleApplication2\nightgame.c(357,6): warning C4101: 'temp_py' :참조되지 않은 지역 변수입니다.
+C:\Users\1osta\OneDrive\바탕 화면\고프어쩌면최종\고프2어쩌면최종\ConsoleApplication2\nightgame.c(356,6): warning C4101: 'temp_px' :참조되지 않은 지역 변수입니다.
+  sample.c
+  코드를 생성하고 있습니다...
+C:\Users\1osta\OneDrive\바탕 화면\고프어쩌면최종\고프2어쩌면최종\ConsoleApplication2\nightgame.c(334): warning C4716: 'checkNear': 값을 반환해야 합니다.
+  ConsoleApplication2.vcxproj -> C:\Users\1osta\OneDrive\바탕 화면\고프어쩌면최종\고프2어쩌면최종\x64\Debug\ConsoleApplication2.exe
